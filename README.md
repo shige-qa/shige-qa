@@ -18,7 +18,7 @@ Three complete case studies, each runnable and tested, with source linked:
 
 ## How I work
 
-Fixed price, small scope, agreed in writing. Async over chat, with written updates and screen recordings instead of calls. Every delivery includes the change, a test that shows it works, and a short root-cause report.
+Fixed price, small scope, agreed in writing. Async over chat, with written updates instead of calls. Every delivery includes the change, a test that shows it works, and a short root-cause report.
 
 ## Why a QA tester is fixing your app
 
